@@ -1,0 +1,9 @@
+├── index.html          # Arquivo principal diretamente na raiz
+├── _redirects          # Regra de roteamento SPA do Netlify
+├── images/             # Todas as fotos em alta definição (consultórios, tratamentos e dentistas)
+│   ├── clinic_modern_office.jpg
+│   ├── dental_technology.jpg
+│   ├── dentist_lead_dr.jpg
+│   ├── dentist_ortho_dr.jpg
+│   └── hero_smiling_patient.jpg
+└── assets/             # Folhas de estilo (CSS) e scripts (JS) minificados
